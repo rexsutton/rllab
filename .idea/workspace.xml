@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16d3478c-6ad4-4fac-8073-f52d48c8a6e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gifs.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demos/ControlPendulum.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demos/solve_pendulum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demos/solve_mountain_car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demos/solve_time_dependent_pendulum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Demos/solve_time_dependent_mountain_car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_make_soft_copy_ops</find>
+      <find>env</find>
+      <find>actor_learning_rate</find>
+      <find>critic_learning_rate</find>
+      <find>gamma</find>
+      <find>approx_rewards</find>
+      <find>y</find>
+      <find>discount_factor</find>
+      <find>inventory_integral</find>
+      <find>initial_inventory</find>
+      <find>max_time</find>
+      <find>inventory</find>
+      <find>self.liquidity_penalty_func</find>
+      <find>liquidity_penalty</find>
+      <find>liquidity_penalty_func</find>
+      <find>initial_mid</find>
+      <find>initial_inventory_value</find>
+      <find>replay_memory_keep</find>
+      <find>max_explore_episodes</find>
+      <find>[</find>
+      <find>params_dict</find>
+      <find>'</find>
+      <find>num_actions</find>
+      <find>_eval_actor</find>
+      <find>_solve_progress_print</find>
+      <find>iteration</find>
+      <find>_sample_progress_print</find>
+      <find>tf.contrib</find>
+      <find>rl</find>
+      <find>contrib</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>game</replace>
+      <replace>params</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rllab/DeepDeterministicPolicyGradients.py" />
+        <option value="$PROJECT_DIR$/Demos/SolvePendulum.py" />
+        <option value="$PROJECT_DIR$/rllab/Control.py" />
+        <option value="$PROJECT_DIR$/Demos/Attic/Control.py" />
+        <option value="$PROJECT_DIR$/rllab/memory.py" />
+        <option value="$PROJECT_DIR$/Demos/solver_put_option.py" />
+        <option value="$PROJECT_DIR$/Demos/AmericanPutGame.py" />
+        <option value="$PROJECT_DIR$/Demos/american_put_game.py" />
+        <option value="$PROJECT_DIR$/Demos/InventoryGame.py" />
+        <option value="$PROJECT_DIR$/Demos/inventory_game.py" />
+        <option value="$PROJECT_DIR$/Demos/bounded_inventory_game.py" />
+        <option value="$PROJECT_DIR$/Demos/penalty_inventory_game.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_bounded_inventory_game.py" />
+        <option value="$PROJECT_DIR$/rllab/inventory_game_actor_network.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_penalty_inventory_game.py" />
+        <option value="$PROJECT_DIR$/Notebooks/Attic/demo_1.ipynb" />
+        <option value="$PROJECT_DIR$/rllab/penalty_inventory_game.py" />
+        <option value="$PROJECT_DIR$/Demos/SolveBoundedInventoryGame.py" />
+        <option value="$PROJECT_DIR$/rllab/bounded_inventory_game.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_inventory_dgame.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_rs_inventory_game.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_inventory_rgame.py" />
+        <option value="$PROJECT_DIR$/rllab/curve_game.py" />
+        <option value="$PROJECT_DIR$/rllab/american_put_game.py" />
+        <option value="$PROJECT_DIR$/rllab/inventory_game.py" />
+        <option value="$PROJECT_DIR$/rllab/ddpg_rs.py" />
+        <option value="$PROJECT_DIR$/rllab/monte_carlo.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_curvegame.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_pendulum_rs.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_put_option.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_inventory_bgame.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_inventory_bgame_sym.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_inventory_game.py" />
+        <option value="$PROJECT_DIR$/rllab/tools.py" />
+        <option value="$PROJECT_DIR$/rllab/ddpg.py" />
+        <option value="$PROJECT_DIR$/gifs.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/rllab/dqn.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_pendulum.py" />
+        <option value="$PROJECT_DIR$/rllab/__init__.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_mountain_car_discrete.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_time_dependent_pendulum.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_time_dependent_mountain_car.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_mountain_car.py" />
+        <option value="$PROJECT_DIR$/Demos/solve_cart_pole.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="21" />
+    <option name="width" value="1920" />
+    <option name="height" value="1059" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rllab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rllab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rllab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rllab" type="462c0819:PsiDirectoryNode" />
+              <item name="Demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rllab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rllab" type="462c0819:PsiDirectoryNode" />
+              <item name="rllab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rllab" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ddpg">
+    <configuration name="ddpg" type="PythonConfigurationType" factoryName="Python">
+      <module name="rllab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demos/solve_pendulum.py" />
+      <option name="PARAMETERS" value="-ctest" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dqn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rllab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demos/solve_cart_pole.py" />
+      <option name="PARAMETERS" value="-ctrain" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ddpg" />
+      <item itemvalue="Python.dqn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dqn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16d3478c-6ad4-4fac-8073-f52d48c8a6e3" name="Default Changelist" comment="" />
+      <created>1544721979721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544721979721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14549288" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" x="280" y="291" width="1287" height="651" id="Terminal" order="8" weight="0.33909288" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286638" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>image.shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>params.min_replays</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iteration &lt; params.min_replays</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(iteration &lt; params.min_replays)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iteration &lt; params.min_replays or 4 % params.training_interval != 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iteration &lt; params.min_replays or iteration % params.training_interval != 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>4 % 4</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iteration</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>params.training_interval</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Demos/Attic/Control.py" />
+    <entry file="file://$PROJECT_DIR$/Notebooks/Pendulum.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Notebooks/MountainCar.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Notebooks/QLearningPutOptions.ipynb" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="451" selection-start-line="451" selection-end-line="451" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notebooks/InventoryGame2.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Notebooks/BoundedInventoryGame.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Notebooks/Attic/demo_1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Demos/Attic/BoundedInventoryGame.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/tensorflow/python/framework/random_seed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1716" selection-start-line="1716" selection-end-line="1716" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1348" selection-start-line="1348" selection-end-line="1348" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notebooks/solve_pendulum.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Notebooks/SymBoundedInventoryGame.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Demos/SolveBoundedInventoryGame.py" />
+    <entry file="file://$PROJECT_DIR$/rllab/bounded_inventory_game.py" />
+    <entry file="file://$PROJECT_DIR$/rllab/inventory_game_actor_network.py" />
+    <entry file="file://$PROJECT_DIR$/Notebooks/InventoryGame.ipynb" />
+    <entry file="file://$PROJECT_DIR$/rllab/penalty_inventory_game.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_bounded_inventory_game.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_penalty_inventory_game.py" />
+    <entry file="file://$PROJECT_DIR$/rllab/curve_game.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_inventory_dgame.py" />
+    <entry file="file://$PROJECT_DIR$/Notebooks/InventoryBGame.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_inventory_rgame.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/CartPole-v0.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rllab/inventory_game.py" />
+    <entry file="file://$PROJECT_DIR$/rllab/monte_carlo.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_curvegame.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_inventory_bgame.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_inventory_bgame_sym.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_inventory_game.py" />
+    <entry file="file://$PROJECT_DIR$/rllab/american_put_game.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_put_option.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/solve_pendulum_rs.py" />
+    <entry file="file://$PROJECT_DIR$/Demos/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rllab/ddpg_rs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="206" column="18" selection-start-line="206" selection-start-column="18" selection-end-line="206" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gifs.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notebooks/solve_mountain_car_continuous.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rllab/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="384" selection-start-line="384" selection-end-line="384" />
+          <folding>
+            <element signature="e#145#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rllab/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rllab/ddpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rllab/dqn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#216#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demos/solve_mountain_car_discrete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demos/solve_cart_pole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demos/solve_pendulum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demos/solve_mountain_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demos/solve_time_dependent_pendulum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demos/solve_time_dependent_mountain_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
